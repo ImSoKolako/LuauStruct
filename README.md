@@ -1,5 +1,5 @@
 # LuauStruct
-A relatively quick struct analogue from C to Luau.
+A relatively quick struct analogue from C to Luau. protected by MIT license
 
 Example:
 ```lua
@@ -29,3 +29,5 @@ print(ExampleStruct:Get("KeyThree"))
 ```
 
 Changelog | Updates: none
+
+to pull new features, use pull requests or issues.
