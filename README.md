@@ -27,3 +27,5 @@ print(ExampleStruct:GetString("KeyOne",61)) -- it wont try to read more than siz
 print(ExampleStruct:Get("KeyTwo"))
 print(ExampleStruct:Get("KeyThree"))
 ```
+
+Changelog | Updates: none
